@@ -1,0 +1,37 @@
+# -----------------------------
+# Core Libraries
+# -----------------------------
+numpy
+opencv-python
+matplotlib
+pillow
+scipy
+
+# -----------------------------
+# Streamlit (Frontend)
+# -----------------------------
+streamlit
+
+# -----------------------------
+# Machine Learning (YOLO)
+# -----------------------------
+ultralytics
+torch
+torchvision
+
+# -----------------------------
+# PDF Processing
+# -----------------------------
+pdf2image
+
+# -----------------------------
+# Utilities
+# -----------------------------
+tqdm
+requests
+
+# -----------------------------
+# Optional (for future upgrades)
+# -----------------------------
+pandas
+scikit-learn

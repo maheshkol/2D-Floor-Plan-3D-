@@ -1,0 +1,31 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+*.tmp
+*.log
+
+# Model weights (optional if large)
+*.pth
+*.pt
+
+# NIfTI files (optional)
+*.nii
+*.nii.gz
