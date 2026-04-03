@@ -29,7 +29,7 @@ st.set_page_config(
     layout="wide"
 )
 
-MODEL_PATH = "models/yolo/best.pt"
+MODEL_PATH = "https://huggingface.co/maheshkol/2D-FLOOR-PLAN-3D/resolve/main/best.pt"
 
 # -----------------------------
 # LOAD MODEL (CACHE)
